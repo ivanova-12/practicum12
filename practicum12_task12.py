@@ -7,17 +7,3 @@ def search(a: list[int], x: int) -> int:
         return 1
     return search(a[1:], x)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -13,15 +13,3 @@ def combin(n: int, k: int) -> int:
 
 print(combin(9, 2))
 
-
-
-
-
-
-
-
-
-
-
-
-

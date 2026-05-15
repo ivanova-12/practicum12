@@ -5,9 +5,3 @@ def count(n: int) -> int:
         return 1
     return count(n // 10) + count(n % 10)
 
-
-
-
-
-
-

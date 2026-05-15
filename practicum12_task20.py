@@ -7,5 +7,3 @@ def comp(a: str, b: str, m: int, n: int) -> int:
         return 1 + comp(a, b, m - 1, n - 1)
     return max(comp(a, b, m - 1, n), comp(a, b, m, n - 1))
 
-
-

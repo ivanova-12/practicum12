@@ -8,9 +8,3 @@ def degree5(n: int) -> int:
     result = degree5(n // 5)
     return -1 if result == -1 else result + 1
 
-
-
-
-
-
-

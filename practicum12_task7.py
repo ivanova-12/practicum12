@@ -5,15 +5,3 @@ def nod(a: int, b: int) -> int:
         return min(a, b)
     return nod(max(a, b) % min(a, b), min(a, b))
 
-
-
-
-
-
-
-
-
-
-
-
-

@@ -6,12 +6,3 @@ def pownum(a: float, n: int) -> float:
     elif n == 1:
         return a
     return pownum(a, n - 1) * a
-
-
-
-
-
-
-
-
-

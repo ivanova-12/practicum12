@@ -10,19 +10,3 @@ def ind_maxlist(a: list[int]) -> int:
         return 0
     return ind
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

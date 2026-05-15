@@ -5,12 +5,3 @@ def sum_progress(a1: float, r: float, n: int) -> float:
         return a1
     return sum_progress(a1 + r, r, n - 1) + a1
 
-
-
-
-
-
-
-
-
-

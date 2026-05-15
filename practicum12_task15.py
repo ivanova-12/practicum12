@@ -8,7 +8,3 @@ def ten_to_bin(x: int) -> str:
     result += str(x % 2)
     return result
 
-
-
-
-
